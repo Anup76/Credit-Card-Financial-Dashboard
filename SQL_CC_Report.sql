@@ -24,6 +24,9 @@ CREATE TABLE IF NOT exists cc_detail (
     Delinquent_Acc VARCHAR(5)
 );
 
+
+-- Data import from credit card csv file
+
 select * FROM cc_detail;
 
 
@@ -50,7 +53,7 @@ CREATE TABLE cust_detail (
 
 
 
-
+-- Data import from customer csv file
 
 
 SELECT * FROM cust_detail;
