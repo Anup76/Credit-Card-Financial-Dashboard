@@ -1,5 +1,7 @@
 # Credit-Card-Financial-Dashboard
-Financial Domain report by using Excel, SQL and Power BI .
+Financial Domain report by using Excel, SQL and Power BI.
+
+**Live Dashboard** - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMjQ2MmQwYWQtYmRhZS00ZjNmLThlZDEtYzA4MDRjODk2NzA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 Project Objective - Aiming to enhance the monitoring and analysis of credit card operations, our objective is to create a comprehensive credit card weekly dashboard. 
